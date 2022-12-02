@@ -1,0 +1,140 @@
+/* cambiamos color del fondo y movemos todo*/
+body{
+  background-color: blue;
+}
+div{
+  margin-left: 250px;
+}
+/* cambiamos color del fondo para simular una playa*/
+.comida{
+    background: rgb(41, 128, 185);
+}
+.costos{
+  background: orange;
+}
+/* Acomodamos letras lo mejor posible*/
+#bebidascosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -270px
+}
+
+#caldos{
+  margin-top: 10px;
+}
+#caldoscosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -450px
+}
+
+#cocteles{
+  margin-top: 30px;
+}
+#coctelescosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -310px
+}
+#tacos{
+  margin-top: 30px;
+}
+#tacoscosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -300px
+}
+#empanadas{
+  margin-top: 20px;
+}
+#empanadascosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -310px
+}
+#comidasfritas{
+ margin-top: 30px;
+}
+#fritoscosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -310px
+}
+#postres{
+  margin-top: 20px;
+}
+#postrescosto{
+  position: static;
+  margin-left: 500px;
+  margin-top: -160px
+}
+/* acomodacion de imagenes*/
+#empanada{
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -750px
+}
+
+#coctel{
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -1425px
+}
+
+#frito{
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -455px
+}
+
+#taco{
+  margin-left: 750px;
+  margin-top: -1115px;
+  position: static;
+}
+
+#refresco{
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -650px
+}
+
+#caldo{
+  position: static;
+  margin-left: 750px;
+  margin-top: -1000px
+}
+
+#Asabor{
+  position: absolute;
+  margin-left: 975px;
+  margin-top: -600px
+}
+
+#postre{
+  position: static;
+  margin-left: 750px;
+  margin-top: 1410px
+}
+
+/*Acomodamos pie de pagina y encabezado */
+#menuprincipal{
+  text-align:center;
+  position: fixed;
+  margin-left: 50px;
+  margin-top: 100px;
+  background: white;
+}
+#galeria{
+  background: black;
+  text-align:center;
+  position: fixed;
+  margin-left: 1550px;
+  margin-top: 100px;
+}
+#contacto{
+  position: static;
+  margin-top: 100px;
+  margin-left: 0px;
+  background: rgb(235, 152, 78);
+}
